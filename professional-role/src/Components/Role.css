@@ -1,0 +1,18 @@
+.choose-role {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+}
+
+.choose-role h1 {
+    margin-bottom: 10px;
+    font-style:arial;
+}
+
+select {
+    width: 100%;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+
